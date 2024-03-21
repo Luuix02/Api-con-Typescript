@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "tarea 1 usando typescript",
+        "date" : "2024-03-21",
+        "level" : "Intermedio",
+        "description" : "Crear API con typescript y Express"
+
+    },
+
+    {
+        "id" : 2,
+        "name" : "tarea 2 usando Python",
+        "date" : "2024-03-21",
+        "level" : "Basico",
+        "description" : "Crear API con Python y Flask"
+
+    },
+
+    {
+        "id" : 3,
+        "name" : "tarea 3 usando Rust",
+        "date" : "2024-03-21",
+        "level" : "Dificil",
+        "description" : "Crear API con Rust y Rocket"
+
+    },
+
+    {
+        "id" : 4,
+        "name" : "tarea 1 usando Php",
+        "date" : "2024-03-21",
+        "level" : "Dificil",
+        "description" : "Crear API con Php y Laravel"
+
+    }
+
+]
