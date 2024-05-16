@@ -1,11 +1,10 @@
 import express from 'express';
-import  * as task_service from "../services/task_service";
 
 
 const router = express.Router();
 
  router.get('/', (_req, res) => {
-    res.send(task_service.getEntries())
+    res.send('')
  })
 
  router.post('/', (_req, res) => {
